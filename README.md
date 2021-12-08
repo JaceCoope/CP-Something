@@ -57,3 +57,9 @@ DataInputStream/DataOutputStream write/read Java primitive values and strings in
 When we write/read an object:
 * All 
 * Can keep a variable from being written using a *transient* keyword
+
+```
+pushd - goes to a directory
+popd - goes back to where you came from
+```
+Read/Writing to a file
